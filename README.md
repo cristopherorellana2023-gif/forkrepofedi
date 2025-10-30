@@ -2,4 +2,4 @@
 # Parte desarollada por wilmer esau.
  Parte Desarrollada por Juan Sebastian Moremo Panana
  
- Parte desarrollada por Crisropher Orellana
+ Parte desarrollada por Crisropher Orellana.
